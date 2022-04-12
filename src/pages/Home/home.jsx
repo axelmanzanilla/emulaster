@@ -6,7 +6,7 @@ function Home(){
     return(
         <Main>
             <Picture link="/resistor" text="Calcula la resistencia" />
-            <Picture link="/resistor" text="Nombre genérico 1" />
+            <Picture link="/blackjack" text="Blackjack" />
             <Picture link="/resistor" text="Nombre genérico 2" />
         </Main>
     )

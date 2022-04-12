@@ -3,7 +3,7 @@ import { Picture } from "./PictureStyles";
 
 function PictureComponent(props){
     return(
-        <Picture to="/resistor">{props.text}</Picture>
+        <Picture to={props.link}>{props.text}</Picture>
     )
 }
 
